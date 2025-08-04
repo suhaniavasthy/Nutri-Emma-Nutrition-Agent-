@@ -37,10 +37,10 @@ These are parsed and embedded into a vector store for contextual retrieval durin
 
 ## SCREENSHOTS
 
-🔹 Preview
+### 🔹 Preview
 <img width="913" height="721" alt="Screenshot 2025-08-04 173859" src="https://github.com/user-attachments/assets/81d95e7e-9d42-429e-9795-92b513ee3ce8" />
 
-🔹 Result/Functioning
+### 🔹 Result/Functioning
 
 <img width="934" height="864" alt="Screenshot 2025-08-04 174529" src="https://github.com/user-attachments/assets/e579ade8-cae1-44d1-a2df-4e84df00faa7" />
 
